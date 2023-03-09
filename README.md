@@ -1,1 +1,1 @@
-2D Tetris Game in Unity
+2D Snake Game in Unity
